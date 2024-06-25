@@ -8,7 +8,7 @@ import {
 import { motion } from "framer-motion";
 import BenefitsPageGraphic from "@/assets/BenefitsPageGraphic.png";
 import Benefit from "./Benefit";
-import HText from "@/shared/Htext";
+import HText from "@/shared/HText";
 
 const benefits: Array<BenefitType> = [
   {
